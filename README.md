@@ -1,2 +1,2 @@
 # FICHERO DE DOCUMENTACIÓN DE MI FICHERO
-Esto es un descripción del proyecto
+Esto es una descripción del proyecto
