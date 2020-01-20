@@ -1,1 +1,45 @@
-<mxfile type="github" version="12.5.5" host="www.draw.io" modified="2020-01-20T08:26:17.856Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.18362" etag="OFa4V7pTshTRZIg97-R1"><diagram id="we2BkhYEqGTAjt14fAak">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile type="github" version="12.5.5" host="www.draw.io" modified="2020-01-20T08:37:53.170Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.18362" etag="OyjiAvlUWa_4exL0Suf2">
+  <diagram id="we2BkhYEqGTAjt14fAak" name="Página-1">
+    <mxGraphModel grid="1" dx="868" dy="480" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="DeYevvsCx69S-Wu5ACmz-11" value="" parent="1" target="DeYevvsCx69S-Wu5ACmz-7" edge="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" source="DeYevvsCx69S-Wu5ACmz-3">
+          <mxGeometry as="geometry" relative="1">
+            <Array as="points">
+              <mxPoint y="125" x="325"/>
+              <mxPoint y="125" x="320"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DeYevvsCx69S-Wu5ACmz-3" value="Dame un número entero" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1">
+          <mxGeometry as="geometry" y="30" x="210" height="60" width="230"/>
+        </mxCell>
+        <mxCell id="DeYevvsCx69S-Wu5ACmz-4" value="" parent="1" style="shape=sortShape;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;" vertex="1">
+          <mxGeometry as="geometry" y="170" x="280" height="80" width="80"/>
+        </mxCell>
+        <mxCell id="DeYevvsCx69S-Wu5ACmz-10" value="" parent="1" target="DeYevvsCx69S-Wu5ACmz-7" edge="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" source="DeYevvsCx69S-Wu5ACmz-5">
+          <mxGeometry as="geometry" relative="1"/>
+        </mxCell>
+        <mxCell id="DeYevvsCx69S-Wu5ACmz-5" value="Mostrar número a" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1">
+          <mxGeometry as="geometry" y="160" x="490" height="100" width="320"/>
+        </mxCell>
+        <mxCell id="DeYevvsCx69S-Wu5ACmz-6" value="DIAMOND" parent="1" style="rhombus;html=1;align=center;whiteSpace=wrap;comic=1;strokeWidth=2;fontFamily=Comic Sans MS;fontStyle=1;" vertex="1">
+          <mxGeometry as="geometry" y="160" x="270" height="100" width="100"/>
+        </mxCell>
+        <mxCell id="DeYevvsCx69S-Wu5ACmz-9" value="" parent="1" edge="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" source="DeYevvsCx69S-Wu5ACmz-7">
+          <mxGeometry as="geometry" relative="1">
+            <mxPoint as="targetPoint" y="340" x="320"/>
+            <Array as="points">
+              <mxPoint y="90" x="320"/>
+              <mxPoint y="90" x="320"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DeYevvsCx69S-Wu5ACmz-7" value="If&amp;nbsp;&lt;br&gt;a&amp;gt;4" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1">
+          <mxGeometry as="geometry" y="160" x="270" height="100" width="100"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
